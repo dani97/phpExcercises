@@ -1,5 +1,5 @@
 <?php
 $username = "root";
-$password = "zilkeradmin";
+$password = "";
 $dsn = "mysql:host=localhost;dbname=myweb";
 ?>
